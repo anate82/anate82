@@ -14,7 +14,7 @@ Este es mi perfil de Github, donde guardo mis proyectos y código de cursos
 - [Buscador de Paises](https://github.com/anate82/BuscadorPaises)
 - [Gestion de mapas](https://github.com/anate82/mapasAngular)
 
-**- Proyectos RebootAcademy **
+**- Proyectos RebootAcademy**
 
 - [Juego de la Oca](https://https://github.com/anate82/TheRebootGame) : Versión del clásico Juego de la Oca.
 - [Taller Bj](https://https://github.com/anate82/TallerBj) : Aplicación full stack de gestión para un taller de chapa y pintura.
@@ -37,6 +37,7 @@ Este es mi perfil de Github, donde guardo mis proyectos y código de cursos
 <img title="JavaScript" height="60" src="./images/javascript.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="Angular" height="60" src="./images/angular-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="Vue" height="60" src="./images/vue.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img title="Bootstrap" height="60" src="./images/bootstrap.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
