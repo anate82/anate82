@@ -36,6 +36,7 @@ Este es mi perfil de Github, donde guardo mis proyectos y código de cursos
 <img title="CSS 3" height="60" src="./images/css-3.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="JavaScript" height="60" src="./images/javascript.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="Angular" height="60" src="./images/angular-icon.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img title="RxJs" height="60" src="./images/rxjs.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="Vue" height="60" src="./images/vue.svg"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img title="Bootstrap" height="60" src="./images/bootstrap.png"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
