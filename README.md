@@ -16,10 +16,10 @@ Este es mi perfil de Github, donde guardo mis proyectos y código de cursos
 
 **- Proyectos RebootAcademy**
 
-- [Juego de la Oca](https://https://github.com/anate82/TheRebootGame) : Versión del clásico Juego de la Oca.
-- [Taller Bj](https://https://github.com/anate82/TallerBj) : Aplicación full stack de gestión para un taller de chapa y pintura.
-- [Clinica dental_FrontEnd](https://https://github.com/anate82/clinica_dental_frontend) : Aplicación full stack de gestión para una clinica Dental
-- [Clinica dental_BackEnd](https://https://https://github.com/anate82/clinica_dental_backend) : Aplicación full stack de gestión para una clinica Dental
+- [Juego de la Oca](https://github.com/anate82/TheRebootGame) : Versión del clásico Juego de la Oca.
+- [Taller Bj](https://github.com/anate82/TallerBj) : Aplicación full stack de gestión para un taller de chapa y pintura.
+- [Clinica dental_FrontEnd](https://github.com/anate82/clinica_dental_frontend) : Aplicación full stack de gestión para una clinica Dental
+- [Clinica dental_BackEnd](https://github.com/anate82/clinica_dental_backend) : Aplicación full stack de gestión para una clinica Dental
 
 ## **Stack:**
 
